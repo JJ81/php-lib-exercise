@@ -1,0 +1,14 @@
+{
+    "name": "yijaejun/test_php",
+    "authors": [
+        {
+            "name": "yijaejun",
+            "email": "yijaejun81@gmail.com"
+        }
+    ],
+    "require": {
+        "driehle/php-crypt-md5": "^2.0",
+        "ircmaxell/password-compat": "^1.0",
+        "eventviva/php-image-resize": "^1.5"
+    }
+}
